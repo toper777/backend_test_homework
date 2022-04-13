@@ -1,4 +1,9 @@
 README.md
+/venv/
+/.idea
+
+/test.py
 .idea/
 venv/
+.vscode
 
